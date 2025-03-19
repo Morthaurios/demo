@@ -1,0 +1,3 @@
+[submodule "src/i2c"]
+	path = src/i2c
+	url = https://github.com/Morthaurios/i2c.git
