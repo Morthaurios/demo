@@ -1,6 +1,7 @@
 #include "I2c.h"
 #include "Mem.h"
 #include "Sensor.h"
+
 static union
 {
     uint8_t au8Bytes[256];
