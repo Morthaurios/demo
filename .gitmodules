@@ -1,3 +1,9 @@
 [submodule "src/i2c"]
 	path = src/i2c
 	url = https://github.com/Morthaurios/i2c.git
+[submodule "src/sensor_x"]
+	path = src/sensor_x
+	url = https://github.com/Morthaurios/sensor_x.git
+[submodule "src/mem_x"]
+	path = src/mem_x
+	url = https://github.com/Morthaurios/mem_x.git
