@@ -17,4 +17,5 @@ target_link_libraries(Demo PRIVATE
     Platform_Types
     I2C_driver
     Mem_driver
+    Sensor_driver
 )
